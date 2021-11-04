@@ -1,3 +1,3 @@
-module github.com/pmacustodio/tryenumer
+module github.com/pmacustodio/gobox/tryenumer
 
 go 1.17
