@@ -1,2 +1,2 @@
-github.com/pmacustodio/gobox v0.0.0-20211104144449-56daa42b013d h1:vOCqGzkHhK0GvRGgzzLOxPRZVA06cFRuA2H9qaaZqe8=
-github.com/pmacustodio/gobox v0.0.0-20211104144449-56daa42b013d/go.mod h1:3DQy0v6/2PvRPHbZpMl4Zr3ddInk2wcNJlspyrG1l3c=
+github.com/pmacustodio/gobox/trymod/mod1 v0.0.0-20220126144926-6f28de70da4e h1:c8rlfbAAO2/YkoQBD9ep77VknxVKNBNRvNeFid0IgeM=
+github.com/pmacustodio/gobox/trymod/mod1 v0.0.0-20220126144926-6f28de70da4e/go.mod h1:oT7O/AV0Y6pHtRGURMZOro5xK2vZI59sfpCdlsIxpX8=
