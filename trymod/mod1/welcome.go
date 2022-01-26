@@ -1,5 +1,5 @@
 package mod1
 
-func WelcomeMsg() string {
+func Welcome() string {
 	return "Welcome to version 1"
 }

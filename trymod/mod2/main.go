@@ -6,5 +6,5 @@ import(
 )
 
 func main() {
-	fmt.Println(mod1.Welcome())
+	fmt.Println(mod1.WelcomeMsg())
 }
