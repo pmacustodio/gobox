@@ -1,5 +1,5 @@
 package mod1
 
 func Welcome() string {
-	return "Welcome to version 1"
+	return "Welcome to version 2"
 }
